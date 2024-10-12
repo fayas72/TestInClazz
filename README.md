@@ -1,0 +1,2 @@
+# TestInClazz
+Test In Class
